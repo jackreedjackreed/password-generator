@@ -12,5 +12,5 @@ A  generator that makes random passwords based on user-selected criteria, such a
 
 Click "Generate Password" button. Follow the prompts to input your password specifications. Resulting password is printed in an alert.
 
-** Links **
-
+** Link **
+https://jackreedjackreed.github.io/password-generator/
